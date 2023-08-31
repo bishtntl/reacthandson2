@@ -1,4 +1,3 @@
- import logo from './logo.svg';
 import './App.css';
 import StructureCompo from './form/Structure';
 
