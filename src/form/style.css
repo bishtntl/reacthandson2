@@ -11,7 +11,7 @@ body{
     margin: 0;
     padding: 0;
     border: 10px solid black;  
-    animation: colorone 8s infinite; 
+     animation: colorone 8s infinite;  
     background-image: radial-gradient(rgba(200, 243, 148, 0.776),rgb(129, 212, 245),rgb(240, 121, 121));
 
 }
